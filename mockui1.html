@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Digimorph UI</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="/js/jquery.knob.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+  </head>
+  <body>
+    <div id="row1" class="rack_row">
+	    <div id="knobholder1" class="module hp10">
+	        <div class="title">Oscillator 1</div>
+	        <input id="osc1_knob1" type="text" class="dial med1">
+            <div class="radio item">
+                <input type="radio" value="sine" name="osc1_waveform"> sine
+            </div>
+            <div class="radio item">
+                <input type="radio" value="saw" name="osc1_waveform"> saw
+            </div>
+            <div class="radio item">
+                <input type="radio" value="square" name="osc1_waveform"> square
+            </div>
+            <div class="radio item">
+                <input type="radio" value="triangle" name="osc1_waveform"> triangle
+            </div>
+	    </div>
+	
+        <div id="knobholder1" class="module hp10">
+            <div class="title">Oscillator 2</div>
+            <input id="osc2_knob1" type="text" class="dial med1">
+            <div class="radio item">
+                <input type="radio" value="sine" name="osc2_waveform"> sine
+            </div>
+            <div class="radio item">
+                <input type="radio" value="saw" name="osc2_waveform"> saw
+            </div>
+            <div class="radio item">
+                <input type="radio" value="square" name="osc2_waveform"> square
+            </div>
+            <div class="radio item">
+                <input type="radio" value="triangle" name="osc2_waveform"> triangle
+            </div>
+        </div>
+
+	    <div id="env1" class="module hp10">
+	        <div class="title">Envelope 1</div>
+	        <div class="side_label1">
+                <span class="label_big">A</span>
+                <input id="env1_knob1" type="text" class="dial med1">
+	        </div>
+            <div class="side_label1">
+                <span class="label_big">D</span>
+	            <input id="env1_knob2" type="text" class="dial med1">
+            </div>
+            <div class="side_label1">
+                <span class="label_big">S</span>
+	            <input id="env1_knob3" type="text" class="dial med1">
+            </div>
+            <div class="side_label1">
+                <span class="label_big">R</span>
+	            <input id="env1_knob4" type="text" class="dial med1">
+            </div>
+	    </div>
+	    
+        <div id="filter1" class="module hp10">
+            <div class="title">Filter 1</div>
+            <div class="side_label1">
+                <span class="label_medium">Frequency</span>
+                <input id="filter1_freq" type="text" class="dial med1">
+            </div>
+            <div class="side_label1">
+                <span class="label_medium">Resonance</span>
+                <input id="filter1_resonance" type="text" class="dial med1">
+            </div>
+            <div class="side_label1">
+                <span class="label_medium">FCV</span>
+                <input id="filter1_fcv" type="text" class="dial med1">
+            </div>
+            <!--
+            <div class="side_label1">
+                <span class="label_medium">?</span>
+                <input id="filter1_knob4" type="text" class="dial med1">
+            </div>
+            -->
+        </div>
+
+	    <div class="clearer"></div>
+    </div>
+    
+    <button id="play_scale" value="Go." />
+    
+    <applet
+        id="digiMorph"
+        name="digiMorph"
+        mayscript="true"
+        code="digimorph.engine.DMMain.class"
+        width="200"
+        height="50"
+        archive="jsyn.jar">
+        Java not supported!
+    </applet>
+
+    <script type="text/javascript">
+        var base_knob_options = {
+	        min: 0,
+	        max: 100,
+	        width: "100",
+	        height: "120",
+	        cursor: true,
+	        thickness: .2,
+	        fgColor: "#222222",
+	        angleOffset: 210,
+	        angleArc: 300,
+	        lineCap: "round",
+	    };
+        var med1_knob_options = $.extend({}, base_knob_options, { width: "70", height: "100" });
+    
+        $(document).ready(function() {
+/*
+            $('#knob1').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setRate(v); }})
+            );
+*/            
+            // Oscillator 1
+            $('#osc1_knob1').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setOsc1Freq(v); }, min: 0, max: 2000})
+            );
+
+		    // Oscillator 2
+		    $('#osc2_knob1').knob(
+		        $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setOsc2Freq(v); }, min: 0, max: 2000})
+		    );
+
+		    // envelope 1
+            $('#env1_knob1').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { 
+                    console.log(v / 100);
+                    digiMorph.setEnv1Attack(v / 100); }})
+            );
+            $('#env1_knob2').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setEnv1Decay(v); }})
+            );
+            $('#env1_knob3').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setEnv1Sustain(v); }})
+            );
+            $('#env1_knob4').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setEnv1Release(v); }})
+            );
+            
+            $("input:radio[name ='osc1_waveform']").change(osc1WaveformChanged);
+            $("input:radio[name ='osc2_waveform']").change(osc2WaveformChanged);
+            
+            // filter 1
+            $('#filter1_freq').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setFilter1Freq(v); }, min: 0, max: 2000})
+            );
+            $('#filter1_resonance').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setFilter1Resonance(v / 100); }, min: 0, max: 100})
+            );
+            $('#filter1_fcv').knob(
+                $.extend({}, med1_knob_options, { 'change' : function (v) { digiMorph.setFilter1FCV(v / 100); }, min: 0, max: 100})
+            );
+            
+            $('#play_scale').click(function () { digiMorph.playScale(); });
+
+        });
+        
+        function osc1WaveformChanged(e) {
+            console.log(e.currentTarget.value);
+            digiMorph.setOsc1Waveform(e.currentTarget.value);
+        }
+
+        function osc2WaveformChanged(e) {
+            console.log(e.currentTarget.value);
+            digiMorph.setOsc2Waveform(e.currentTarget.value);
+        }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,72 @@
+body {
+	font-family: helvetica, arial;
+	color: #555;
+}
+
+.rack_row {
+	padding: 10px;
+	background-color: #222;
+	border: 2px solid #555;
+	border-radius: 20px 20px 20px 20px;
+    margin: 0 0 15px;
+}
+.module {
+    border: 2px solid #ccd;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px;
+    margin: 5px;
+    background-color: #fff;
+    float: left;
+}
+.module.hp10 {
+    width: 100px;	
+}
+.module .title {
+    font-family: helvetica;
+    line-height: 18pt;
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #777;
+}
+.module .side_label1 .label_big {
+	font-weight: bold;
+	font-size: 18pt;
+	display: inline-block;
+    font-size: 18pt;
+    padding: 18px 7px 0 0;
+    vertical-align: top;
+}
+.radio.item input {
+    vertical-align: top;
+}
+
+
+#knobholder1 {
+}
+.dial {
+    margin-bottom: 20px;
+}
+.clearer {
+	clear: both;
+}
+button:hover {
+    cursor: pointer;
+}
+
+button.seq_control {
+    border: 1px solid #ccd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 15px 10px 0;
+    background-color: #555;
+}
+button.seq_control img.icon {
+    height: 32px;
+    width: 32px;
+}
+
+#play_scale {
+    background-color: #fa0;
+    paddinga 20px;
+}

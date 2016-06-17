@@ -1,0 +1,23 @@
+Sequencer
+
+I want to try out making a sequencer, so working out an approach.
+UI will have a bunch of stuff, eventually, but we can start off with the start/stop functionality.
+
+The back end, because of the way JSyn works, should do something like:
+
+    Sequence exists as a list of events, notes and anything else.
+    Sequence may be looped indefinitely.
+    Eventually, there could be multiple loops of different durations, which might be interesting.
+    
+    Scheduler has to read events from sequence(s) and plop them into the queue.
+    Queue has to be loaded up enough in advance that the events there will carry through until the next time the preload occurs.
+    Each preload cycle will load up more data from last read point until end point, == now to end of preload window.
+    When playback is stopped, it should do so immediately, noting the stop point and flushing the loaded queue.
+    When playback is started, there will have to be a small amount of lag time before 1st event to ensure that events have a 
+    chance to get set.
+    
+UI
+    stop button
+    play button
+    loop icon?
+        

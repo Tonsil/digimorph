@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"create",
+				"createModel"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"strr",
+				"str_replace"
+			],
+			[
+				"icon",
+				"icon_url"
+			],
+			[
+				"cat",
+				"cat_page"
+			],
+			[
+				"categ",
+				"category_url"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"c",
+				"companies"
+			],
+			[
+				"stat",
+				"stat_str"
+			],
+			[
+				"pro",
+				"profile_options"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"float",
+				"floating_hierarchy_icon"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"header",
+				"header_value"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mockui2.html",
+			"settings":
+			{
+				"buffer_size": 8353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/likewise-open/LOTAME/michael/workspace/local/synth/mockui2.html",
+			"settings":
+			{
+				"buffer_size": 8245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1170,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 54.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/likewise-open/LOTAME/michael/workspace/digimorph/digimorph.html",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/APR fixes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.19/WDGT-1968/WDGT-1968.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.11/R 14.11 overview.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/query1.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/make 20019 work.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/data_insert1.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/overview_response.js",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-689 notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-690 notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-687_notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/temp3.csv",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/cgbrd_insert.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/dsn_insert.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/all_members_insert.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/temp1.csv",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/WDGT-2023/data_insert1b.sql",
+		"/home/likewise-open/LOTAME/michael/workspace/local/home_page.html",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-699/TOMA-699.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-696.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-690 configs.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-686 testing.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-695.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/product cs notes/Product Release Notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Animated gif fun.txt",
+		"/home/likewise-open/LOTAME/michael/Documents/web_book_mk2/ch1/silly.js",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-689/TOMA-689 Requirements.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.35/PE-101/VAUD-129 testing.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.35/TOMA-693.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/TOMA-691 notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.35/PE-101/PE-101 reqs.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.35/PE-101/PE-101 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.35/PE-101/TOMA-658 bugs and testing.txt",
+		"/home/likewise-open/LOTAME/michael/Documents/matt_fun.html",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.37/global_event_test_handler.txt",
+		"/home/likewise-open/LOTAME/michael/Documents/pi fun/java on pi.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/issue_org.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/cs feedback/raw_spreadsheet_notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/widgets_requests.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/TomaToma laundry.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/widgets_requests2.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/unsubscribe_button_bug.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/inbound_issues.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/DESK-3756.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/New Issues/PE-101/urls_and_saving.txt",
+		"/home/likewise-open/LOTAME/michael/Work/notes/Backbone Forms.txt",
+		"/home/likewise-open/LOTAME/michael/Work/notes/Setting up Services",
+		"/home/likewise-open/LOTAME/michael/Work/notes/working_in_services.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/meetings/Premeeting with Rishit 20140811.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/New Issues/PE-101/detritus.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/New Issues/PE-101/PE-101 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/New Issues/PE-101/PE-101 reqs.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/New Issues/PE-102/PE-102 reqs.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/New Issues/PE-101/PE-102 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.21/PE-74/jasmine_testing.txt",
+		"/home/likewise-open/LOTAME/michael/Work/notes/Using Sonar.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/R14.33 general.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-655.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-651/TOMA-651 soc.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-651/TOMA-578 related issues.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/TOMA-560 notes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/optimizing query take 2.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/comparing_queries.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/failed_take_2.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632 take 2.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/query_soc1.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-672.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-664/TOMA-664.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/new_query_diff.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/take2_slow_query.csv",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/take2_faster_still2.csv",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/new_query_diff2.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/TOMA-644 Uncat Behs.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/TOMA-644 Top Audiences.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-664/TOMA-667.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-664/TOMA-666.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/TOMA-644 design.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.31/TOMA-638.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-663/toma_663_layout.html",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-663.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/DESK-3632/DESK-3632.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/VAUD-128 fix links.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/PE-91 page3 requirements.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/completed.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/beatdown_20140709.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/PE-91 page3 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/PE-91 page2 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/PE-91 page2 requirements.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/test_hierarchy_structure.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/full_testing.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/full_requirements.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/PE-91 page1 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/PE-91 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/behavior_hierarchies.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-560/detritus2.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-560/detritus1.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/my_detritus/TopAudiencesGrid.view.js",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/TOMA-644/my_detritus/UncategorizedBehaviorsGrid.view.js",
+		"/home/likewise-open/LOTAME/michael/workspace/tomatoma/web/js/backbone/CC/views/reports/TOMA-644 Uncat Behs.txt",
+		"/home/likewise-open/LOTAME/michael/workspace/tomatoma/web/js/backbone/CC/views/reports/TOMA-644 Top Audiences.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/DESK-3632/development_queries.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/DESK-3632/testing_queries.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.33/DESK-3632/hierarchy_ids.csv",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/Using Markdown on Jasmine tests.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/selling_agreement1.js",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/client_list.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/page 2 detritus.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/page 1 detritus.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/old_rc_logic.txt.",
+		"/home/likewise-open/LOTAME/michael/workspace/tomatoma/web/js/backbone/CC/views/tt_hierarchies/selling/Detritus 20140707.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/thought_train_20140707.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/Saving SA.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/PE-87/PE-87 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/PE-87/PE-87.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/TOMA-524.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.21/PE-76/PE-76 Toma TOMA-433.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.21/PE-76.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.21/PE-75.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.21/PE-74.txt",
+		"/home/likewise-open/LOTAME/michael/Desktop/jquery-toggles-master/README.md",
+		"/home/likewise-open/LOTAME/michael/Desktop/jquery-toggles-master/toggles.js",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/PE-91/EditSellingAgreement.view.js",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.27/DESK-3632/create_behaviors.sql",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/up_front.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/PE-87/profile_visible_woes.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/PE-87/cache_test.php",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/PE-87/PE-88 SOC.txt",
+		"/home/likewise-open/LOTAME/michael/Work/Engineering Team/R14.25/PE-87/PE-89 SOC.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jar",
+			"play_scale",
+			"bsord",
+			"INSERT INTO `client_group_behaviors_reporting_data` (`data_date`,`client_group_id`,`behavior_id`,`universe_id`,`request_count`,`profile_count`,`population_delta`,`indirect_count`,`removed_count`,`daily_uniques`,`monthly_uniques`,`available`,`immediate_only_count`,`uniques_mtd`,`uniques_30day`) VALUES ",
+			"behavior_id`,`universe_id`,`request_count`,`profile_count`,`population_delta`,`indirect_count`,`removed_count`,`daily_uniques`,`monthly_uniques`,`available`,`immediate_only_count`,`uniques_mtd`,`uniques_30day`) VALUES ",
+			"INSERT INTO `audience_affinity_data` (`data_date`,`audience_id`,`behavior_id`,`universe_id`,`affinity_count_30`,`affinity_count_first_30`,`affinity_30`,`affinity_30_first`) VALUES ",
+			");",
+			"INSERT INTO `audience_affinity_data` (`data_date`,`audience_id`,`behavior_id`,`universe_id`,`affinity_count_30`,`affinity_count_first_30`,`affinity_30`,`affinity_30_first`) VALUES ",
+			");",
+			"\\n",
+			"20140804",
+			"2014",
+			"audience_id",
+			"-d",
+			"13.47",
+			"diplay",
+			"http",
+			"share",
+			"test",
+			"Redo Manage Pricing modal",
+			"103",
+			"testgit branch",
+			"test",
+			"protected",
+			"ype",
+			"isDefaultCreateAffinity",
+			".dev",
+			"getCategorizedBehaviorsNetworkReportQuery",
+			"?",
+			"clients_behavior_type",
+			"?",
+			"release",
+			"selector",
+			"target",
+			"dev",
+			"[\\r\\n]+",
+			"[\\\\r\\\\n]+",
+			"Scenario #",
+			"FAIL",
+			"create_selling_agreement",
+			"bf",
+			"filter",
+			"bf",
+			"BF",
+			"NETWORK",
+			"668501",
+			"clean",
+			"Sharing",
+			"\n    ",
+			"populate",
+			"disa",
+			"haring",
+			"http",
+			"durat",
+			"?",
+			"Config",
+			"qa",
+			"'20362, '",
+			"\" name=\"[\\w\\s&;\\/\\-]*\"\\/>",
+			"<ns4:behavior id=\"",
+			"    \\n",
+			"        \\n",
+			"<ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>",
+			"<ns3:cpm>1</ns3:cpm>",
+			"<ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">",
+			"<ns3:component operator=\"OR\" compliment=\"false\">",
+			"</ns3:component>",
+			"</ns3:complexAudienceBehavior>",
+			"        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n",
+			"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<ns3:definition xmlns:ns2=\"http://services.lotame.com/cc/hierarchies\" xmlns:ns3=\"http://services.lotame.com/cc/audienceservice\" xmlns:ns4=\"http://services.lotame.com/cc/behaviorservice\" xmlns:ns5=\"http://services.lotame.com/cc/behaviorstats\" xmlns:ns6=\"http://services.lotame.com/cc/clientservice\" xmlns:ns7=\"http://services.lotame.com/cc/common\" xmlns:ns8=\"http://services.lotame.com/cc/campaignservice\" xmlns:ns9=\"http://services.lotame.com/cc/pixelservice\" xmlns:ns10=\"http://services.lotame.com/cc/universes\" xmlns:ns11=\"http://services.lotame.com/cc/placementservice\">\n    <ns3:component compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"false\" overlapOnly=\"true\">\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"6322340\" name=\"Rents Primary Residence\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"6322340\" name=\"Rents Primary Residence\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"1785\">\n            <ns3:cpm>24</ns3:cpm>\n            <ns2:HierarchyCategory>BRANDED</ns2:HierarchyCategory>\n            <ns4:behavior id=\"8735893\" name=\"Home Owner / Renter -&gt; Renter\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"1787\">\n            <ns3:cpm>0.75</ns3:cpm>\n            <ns2:HierarchyCategory>BRANDED</ns2:HierarchyCategory>\n            <ns4:behavior id=\"8751879\" name=\"Home Renter\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"1789\">\n            <ns3:cpm>0.5</ns3:cpm>\n            <ns2:HierarchyCategory>BRANDED</ns2:HierarchyCategory>\n            <ns4:behavior id=\"8763871\" name=\"Renters\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"1790\">\n            <ns3:cpm>0.65</ns3:cpm>\n            <ns2:HierarchyCategory>BRANDED</ns2:HierarchyCategory>\n            <ns4:behavior id=\"8762430\" name=\"Renter\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"6573471\" name=\"Arts, Culture &amp; Literature\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1112284\" name=\"Automobiles\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111755\" name=\"Business\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111757\" name=\"Careers\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111750\" name=\"Comedy &amp; Humor54\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"8762415\" name=\"Device\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"11817669\" name=\"Entertainment\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111733\" name=\"Fashion &amp; Beauty\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111758\" name=\"Food &amp; Beverages\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111765\" name=\"Games &amp; Toys\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111762\" name=\"Government &amp; Politics\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111738\" name=\"Health &amp; Medicine\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111744\" name=\"HistoryASG\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"6573892\" name=\"Holidays &amp; Celebrations3\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111741\" name=\"Home &amp; Family\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111751\" name=\"Nature &amp; Environment\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111739\" name=\"News\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"6574002\" name=\"Philanthropy &amp; Charity\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111747\" name=\"Radio\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"2090270\" name=\"Relationships\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1115904\" name=\"Religion\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"12490547\" name=\"RenameEmpty\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111760\" name=\"School &amp; Education\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111743\" name=\"Science &amp; Mathematics\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"9807322\" name=\"Shopping\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"9807322\" name=\"Shopping\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"6843806\" name=\"Social Media\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111752\" name=\"Sports &amp; Recreation\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"1111731\" name=\"TravelTest\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930628\" name=\"Australia\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930629\" name=\"Brazil\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930613\" name=\"Canada\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930632\" name=\"China\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930620\" name=\"Denmark\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930615\" name=\"France\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930617\" name=\"Germany\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930626\" name=\"India\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930627\" name=\"Indonesia\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930625\" name=\"Ireland\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930624\" name=\"Italy\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930630\" name=\"Japan\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930634\" name=\"Malaysia\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930631\" name=\"Mexico\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930616\" name=\"Netherlands\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930639\" name=\"New Zealand\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930619\" name=\"Norway\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930633\" name=\"Philippines\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930623\" name=\"Spain\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930618\" name=\"Sweden\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930638\" name=\"Turkey\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930614\" name=\"United Kingdom\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n    <ns3:component operator=\"OR\" compliment=\"false\">\n        <ns3:complexAudienceBehavior compliment=\"false\" purchased=\"true\" overlapOnly=\"true\" purchasableClientId=\"205\">\n            <ns3:cpm>1</ns3:cpm>\n            <ns2:HierarchyCategory>STANDARD</ns2:HierarchyCategory>\n            <ns4:behavior id=\"10930611\" name=\"United States\"/>\n        </ns3:complexAudienceBehavior>\n    </ns3:component>\n</ns3:definition>\n",
+			"size",
+			"curl",
+			"file",
+			"May \\d{2} \\d{2}:\\d{2}:\\d{2} symfony \\[debug\\] Starting request: http:\\/\\/services.dev.lotame.com:8080",
+			"?",
+			".)",
+			"mike.",
+			"wiki",
+			"bill",
+			"(?)",
+			"view_behavior",
+			"1974",
+			"cas",
+			"cascade_",
+			"DESK-3498",
+			"@",
+			"66.70.6.8",
+			"http://66.70.6.8/",
+			"global",
+			"APIException",
+			"pushAudienceMetaData",
+			"vaudeville",
+			"widgets",
+			"?",
+			"release",
+			"}",
+			"direct",
+			"-d",
+			"36856",
+			"qa",
+			"jenk",
+			"unsubscribeHierarchiesForClient",
+			"goog",
+			"1947",
+			"frequency",
+			"publish",
+			"dataDateMonthChanged",
+			"updateBeaconList",
+			"http://",
+			"id",
+			"http",
+			"audiences",
+			"spleen",
+			"star",
+			"drop",
+			"pixels",
+			"          ",
+			"<E1>",
+			"	",
+			"mike.widgets.dev",
+			"?",
+			"-t",
+			"http:",
+			"publish",
+			"score",
+			"DDL",
+			"scoringEnhancementType",
+			"rails"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"),",
+			"",
+			"),",
+			", ",
+			"),\\n",
+			"(20140611",
+			"14.37",
+			", ",
+			"scrub",
+			"",
+			"elling",
+			"'20362', '",
+			"",
+			"...",
+			"tomatoma",
+			"vaudeville",
+			"1945",
+			"history",
+			"sport",
+			"                 ",
+			"á",
+			"    ",
+			"25",
+			"},{",
+			"audience",
+			"###############",
+			"",
+			"mode",
+			"Mode"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mockui2.html",
+					"settings":
+					{
+						"buffer_size": 8353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5036,
+								5036
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1063.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/likewise-open/LOTAME/michael/workspace/local/synth/mockui2.html",
+					"settings":
+					{
+						"buffer_size": 8245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8245,
+								8245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 1170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"* \"Insights::Campaigns\""
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

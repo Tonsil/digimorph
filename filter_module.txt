@@ -1,0 +1,25 @@
+SOC for creating a filter "module"
+
+I recognize at this point that I probably want a complete module to contain a filter. It will be like any standard filter,
+so here's the design:
+    audio input
+    lowpass out
+    highpass out
+    mixed out?
+    frequency setting - such that a knob could control
+    resonance (Q)
+    freq. cv in
+    resonance cv in
+    
+    which filter to use? FilterStateVariable
+    
+    for the frequency handling...
+        create an Add circuit
+            inputA is the big knob set freq
+            inputB is the FCV input (LFO)
+            
+        upstream of the Add we need an amplifier, something to boost the incoming LFO from 1 to the range of LFO effect
+        - Multiply
+        FCV in -> Multiply -> Add
+        Freq. ----------------^
+         

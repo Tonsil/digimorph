@@ -1,0 +1,63 @@
+<html>
+<head>
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<!--
+<applet
+    id="digiMorph"
+    name="digiMorph"
+    mayscript="true"
+    code="digimorph.engine.DMMain.class"
+    width="200"
+    height="200"
+    archive="jsyn.jar">
+    Java not supported!
+</applet>
+-->
+
+ <object type="application/x-java-applet"
+    id="digiMorph"
+    name="digiMorph"
+    mayscript="true"
+    code="digimorph.engine.DMMain.class"
+    width="200"
+    height="200"
+    archive="jsyn.jar">
+    Java not supported!
+</object>
+<!-- 
+<script src="http://www.java.com/js/deployJava.js"></script>
+-->
+<script>
+/*
+    var attributes = {
+        id:'digiMorph',
+        code: "digimorph.engine.DMMain.class",
+        width:200,
+        height:200,
+        archive: "jsyn.jar"
+    };
+    var parameters = { fontSize: 16 };
+    var version = "1.7";
+    deployJava.runApplet(attributes, parameters, version);
+*/
+</script>
+
+<!-- 
+    // var parameters = {jnlp_href: 'digimorph.jnlp'} ;
+    // codebase: "digimorph/engine/",
+ -->
+ <script>
+ $(document).ready(function() {    
+     console.log($('#digiMorph'));
+     console.log(document.digiMorph);
+     console.log($(document.digiMorph));
+     digiMorph.setRate(10);
+     //$('#digiMorph').setRate(10);
+ });
+ </script>
+ 
+</body>
+</html>

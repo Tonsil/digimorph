@@ -1,0 +1,30 @@
+Oscillator Tuning
+
+    I want to be able to set a note "in" value - default to 440?
+    I'm thinking 12:00 on the tuning knob should be 'that' frequency
+    0 value should be 0 hz
+    max value should be 20k
+    
+    ok, so if I do that, what happens if I set the knob "up" an octave?
+    I would want that to stay true as I change the note in.
+    so, tuning would be a * 200%, = 880Hz. 
+    I don't know if I can have that *and* have the top limit to 20kHz
+    
+    frequency = 440.0 * (2 ^ (NoteNumber/12)) Hz
+    where NoteNumber is steps + - from concert A (440)
+    so c would be -9
+    440.0 * (2 ^ (-9/12)) = 261.62556530059863467785
+    
+    ok, we'll do it that way, so make the knob tune in notes, either direction.
+    I want 440 to go from 20 to 20kHz
+    +/- 64 gets us from roughly 10 to 18000, I can live with that
+    so make my control 0-128 and subtract 64, but I want more granularity so the knob can be 0-1000 
+    and the formula is ((v/500 * 64) - 64) = s
+    - that can be simplified v * 0.128 - 64 = s
+    and then (2 ^ (s/12))
+    that gets multiplied with the note in, e.g. 440.
+    
+    
+    
+    
+    

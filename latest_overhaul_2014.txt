@@ -1,0 +1,38 @@
+Overhaul starting 2014-11-30
+
+Been a while.
+Want to be able to trigger individual notes from the UI. Start with a button that lets me set a value plays it. 
+The note value I send in will be the start point, but not the final determined value. If I send in a C-262, and the synth is tuned to
+match the note in exactly, it should sound a C-262. But I could send it up an octave (464) or up a fifth or whatever. 
+
+Making a new synth as DMMain3.java, re-use everything I can.
+unlink the thing that's setting off the envelope, it's a low frequency pulse right now.
+the click of the button should play the note/trigger the envelope.
+
+Notes from 
+http://www.didkovsky.com/JavaMusicSystems/JSynPure1.doc
+
+EnvelopeDAHDSR
+This is a six stage envelope. Unlike the breakpoint model above, this is a self-contained unit with input ports through which you can control the contour. EnvelopeDAHDSR has the following UnitInputPorts:
+delay - the time before the initial attack ramp. Usually zero.
+attack – the time in seconds to reach full amplitude.
+hold – the time in seconds to hold on to the highest attack peak before decaying
+decay – time in seconds to fall to -96db. Even though the envelope will stop at the level specified in sustain, the slope is calculated according to the duration it would take to reach -96
+sustain – the level at which the signal should sustain. Scaled by amplitude.
+release – the time in seconds to fall to -96db
+amplitude – used to scale the attack and sustain level.
+
+EnvelopeDAHDSR is a subclass of unitGate. As such there are two ways to trigger an EnvelopeDAHDSR. 
+
+Send it an input  above a threshold, for example like this:
+ampEnvGate.input.set(1, timeStamp);
+
+The other way is to call on() like so:
+ampEnvGate.input.on(timeStamp);
+
+Similarly, to shut it down, you may use one of two methods:
+ampEnvGate.input.set(0, timeStamp); // below threshold
+ampEnvGate.input.off(timestamp); // call off()
+
+Efficiency: you can set this gate to shut down the circuit when it completes its last release stage. This saves CPU cycles when the circuit is not making sound.
+myAmpEnv. setupAutoDisable(this); // where ‘this’ is the circuit containing env
